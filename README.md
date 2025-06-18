@@ -2,8 +2,6 @@
 
 A simple and modern digital agency fully mobile responsive website developed with Pure HTML, SCSS and JavaScript.
 
-![💻 Digital Agency Website]
-
 ## 🔧 Getting Started
 
 ### 📍 Installation & Setup Instructions
