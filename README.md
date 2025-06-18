@@ -1,9 +1,8 @@
 # 💻 Digital Agency Website
 
 A simple and modern digital agency fully mobile responsive website developed with Pure HTML, SCSS and JavaScript.
-[Click Here To View ↗](https://legendary-arithmetic-5785d0.netlify.app/)
 
-![💻 Digital Agency Website](https://github.com/Saimcode/agency-website/blob/main/agency-website-thumbnail.png?raw=true)
+![💻 Digital Agency Website]
 
 ## 🔧 Getting Started
 
